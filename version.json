@@ -1,6 +1,6 @@
 {
   "latestVersion": "1.0.12.0",
-  "downloadUrl": "https://github.com/mhmdasb0-cmyk/ALWATEEN-UPDATES/releases/download/v1.0.11/alwateen_v1.0.11.0.zip",
+  "downloadUrl": "https://github.com/mhmdasb0-cmyk/ALWATEEN-UPDATES/releases/download/v1.0.12/alwateen_v1.0.12.0.zip",
   "fileName": "alwateen_v1.0.12.0.zip",
-  "notes": "تم اصلاح الاخطاء و تعديل قاعدة البيانات وتحسين المنطق"
+  "notes": "تم اصلاح الاخطاء و تصحيح نظام الادخال بالباركود"
 }
