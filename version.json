@@ -1,7 +1,14 @@
 {
-  "latestVersion": "1.2.21.0",
-  "downloadUrl": "https://github.com/mhmdasb0-cmyk/ALWATEEN-UPDATES/releases/download/v1.2.21/alwateen_v1.2.21.0.zip",
-  "fileName": "alwateen_v1.2.21.0.zip",
-  "sha256": "AF608972C653F71AC2BD84EE2504EDF4685DEDD7930BF55D776541DD0C8CB751",
-  "notes": "\u062A\u062D\u0633\u064A\u0646\u0627\u062A \u0639\u0627\u0645\u0629"
+  "signatureSchemaVersion": 1,
+  "keyId": "alwateen-update-2026-01",
+  "signatureAlgorithm": "RSA-PSS-SHA256",
+  "signedPayload": "eyJwYXlsb2FkU2NoZW1hVmVyc2lvbiI6MSwibGF0ZXN0VmVyc2lvbiI6IjEuMi4yMi4wIiwiZG93bmxvYWRVcmwiOiJodHRwczovL2dpdGh1Yi5jb20vbWhtZGFzYjAtY215ay9BTFdBVEVFTi1VUERBVEVTL3JlbGVhc2VzL2Rvd25sb2FkL3YxLjIuMjIvYWx3YXRlZW5fdjEuMi4yMi4wLnppcCIsImZpbGVOYW1lIjoiYWx3YXRlZW5fdjEuMi4yMi4wLnppcCIsInNoYTI1NiI6IkE3NTA2N0IyRkU0RjY5REIwQzk4NjRFREU3M0NGMUM1RUNBNTIwRkE3RUM4QzI2MzAzRENDMjI1NUE2NjZDRTgiLCJmaWxlU2l6ZUJ5dGVzIjoxMTkyNjU3NCwicHVibGlzaGVkQXRVdGMiOiIyMDI2LTA4LTE0VDAwOjQ1OjA1LjY3MDExODFaIiwibm90ZXMiOiJcdTA2NDNcdTA2MzMgXHUwNjI3XHUwNjQ0XHUwNjQ2XHUwNjRBXHUwNjJDIFx1MDY0QVx1MDY0Nlx1MDY0QVx1MDYyQyJ9",
+  "signature": "Mfz9eJs96d6uhyw5Pc5iL44UJd6TpeU4JNTUnJqgB7MeVLz06og\u002BPGsnw4b2oUyQqyz1OktiPyxxDan1GcLQbbJjT6aUgjLYQuhIWT0MknwWadJ42wHgTb8HhidRkpBcyfDDIgGICE140Ll2rxLbSdUb/iFpyjsq7sVzBTIVRFSYDkPsPWPn4WQ19YkbuGdud5T6mXl3p6vNz0550oNCxvEGtyDnM6lkkopl/l9YANkKlhdt4pBihe0yJgc7tPKgfDH3VjZEvEavJ3NT0SiK8EHOXFZbtOt\u002B6cjy9HVG90c7QGt4HJe6HLDlgMaDenpNX9xRV20O/Ml/ydD0HIqGpY89jPGizi4QehtzqUXfptd5MtXZg0kVVmcCsE6aaRoPLp\u002Bix0Gqo3DNXQ6jHKgwlqEYGlhZzwGqPNFW9c\u002BxSRcNfQhrxZ88PQeDgccqpsQxK8NZzILoEU43g89K8TnICCvwQzZCwXUMhSywWn2q9tuky4a0adaNn3Jsn5Y4QtyL",
+  "latestVersion": "1.2.22.0",
+  "downloadUrl": "https://github.com/mhmdasb0-cmyk/ALWATEEN-UPDATES/releases/download/v1.2.22/alwateen_v1.2.22.0.zip",
+  "fileName": "alwateen_v1.2.22.0.zip",
+  "sha256": "A75067B2FE4F69DB0C9864EDE73CF1C5ECA520FA7EC8C26303DCC2255A666CE8",
+  "fileSizeBytes": 11926574,
+  "publishedAtUtc": "2026-08-14T00:45:05.6701181Z",
+  "notes": "\u0643\u0633 \u0627\u0644\u0646\u064A\u062C \u064A\u0646\u064A\u062C"
 }
